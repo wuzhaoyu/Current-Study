@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b89dd43-7090-40bd-8329-8c9176cd98d7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGBdN0GsQGbPLWu2CW4p3kYMhh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.mvnsearch.intellij.plugin.zookeeper.ui.ZkProjectConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+      <recent name="com.lock" />
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Current-Study\src\main\java\com" />
+      <recent name="G:\Current-Study\src\main\java\com\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThreadBiasedCancel">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadBiased" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lock.ThreadBiased" />
+      <module name="Current-Study" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadBiasedCancel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lock.ThreadBiasedCancel" />
+      <module name="Current-Study" />
+      <option name="VM_PARAMETERS" value="-XX:BiasedLockingStartupDelay=0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitAndNotifyAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.WaitAndNotifyAll" />
+      <module name="Current-Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitAndNotifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.WaitAndNotifyTest" />
+      <module name="Current-Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitAndSleepTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.WaitAndSleepTest" />
+      <module name="Current-Study" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadBiased" />
+      <item itemvalue="Application.ThreadBiasedCancel" />
+      <item itemvalue="Application.WaitAndNotifyTest" />
+      <item itemvalue="Application.WaitAndSleepTest" />
+      <item itemvalue="Application.WaitAndNotifyAll" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadBiasedCancel" />
+        <item itemvalue="Application.WaitAndNotifyAll" />
+        <item itemvalue="Application.WaitAndSleepTest" />
+        <item itemvalue="Application.WaitAndNotifyTest" />
+        <item itemvalue="Application.ThreadBiased" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b89dd43-7090-40bd-8329-8c9176cd98d7" name="Default Changelist" comment="" />
+      <created>1586352136316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586352136316</updated>
+      <workItem from="1586352158739" duration="5365000" />
+      <workItem from="1586437621793" duration="11477000" />
+      <workItem from="1586783966169" duration="3097000" />
+      <workItem from="1586870176593" duration="5817000" />
+      <workItem from="1587195666987" duration="7000" />
+      <workItem from="1587195768576" duration="12957000" />
+      <workItem from="1587388317853" duration="5201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587289369934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587289369934" />
+    <state x="549" y="107" key="FileChooserDialogImpl" timestamp="1586352260682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586352260682" />
+    <state width="1877" height="522" key="GridCell.Tab.0.bottom" timestamp="1587438348306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535154" />
+    <state width="1493" height="474" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586524992793" />
+    <state width="1877" height="522" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587438348306" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587390927723" />
+    <state width="1877" height="522" key="GridCell.Tab.0.center" timestamp="1587438348306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535153" />
+    <state width="1493" height="474" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586524992792" />
+    <state width="1877" height="522" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587438348306" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587390927723" />
+    <state width="1877" height="522" key="GridCell.Tab.0.left" timestamp="1587438348306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535153" />
+    <state width="1493" height="474" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586524992792" />
+    <state width="1877" height="522" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587438348306" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587390927722" />
+    <state width="1877" height="522" key="GridCell.Tab.0.right" timestamp="1587438348306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535154" />
+    <state width="1493" height="474" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586524992793" />
+    <state width="1877" height="522" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587438348306" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587390927723" />
+    <state width="1877" height="290" key="GridCell.Tab.1.bottom" timestamp="1587047028834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535380" />
+    <state width="1493" height="353" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586521893326" />
+    <state width="1493" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586747059307" />
+    <state width="1877" height="290" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587047028834" />
+    <state width="1877" height="290" key="GridCell.Tab.1.center" timestamp="1587047028834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535380" />
+    <state width="1493" height="353" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586521893326" />
+    <state width="1493" height="353" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586747059307" />
+    <state width="1877" height="290" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587047028834" />
+    <state width="1877" height="290" key="GridCell.Tab.1.left" timestamp="1587047028834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535380" />
+    <state width="1493" height="353" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586521893326" />
+    <state width="1493" height="353" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586747059307" />
+    <state width="1877" height="290" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587047028834" />
+    <state width="1877" height="290" key="GridCell.Tab.1.right" timestamp="1587047028834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="251" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586490535380" />
+    <state width="1493" height="353" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586521893326" />
+    <state width="1493" height="353" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1586747059307" />
+    <state width="1877" height="290" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587047028834" />
+    <state x="392" y="107" key="NewModule_or_Project.wizard" timestamp="1586352277195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="392" y="107" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1586352277195" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586352356434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586352356434" />
+    <state x="334" y="213" key="new project wizard" timestamp="1587270577112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="213" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587270577112" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1587287778638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586523554816" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587287778638" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="192.168.98.4" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="/" />
+    <option name="enabled" value="true" />
+    <option name="tooltip" value="true" />
+  </component>
+</project>
