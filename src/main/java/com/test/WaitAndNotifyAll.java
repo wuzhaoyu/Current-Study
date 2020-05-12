@@ -63,6 +63,15 @@ public class WaitAndNotifyAll {
             }
         }, "送外卖的").start();
 
+        //wait 与 notify 的正确姿势
+        // synchronized(lock){
+        //   while(不成立){
+        //     lock.wait
+        //   }
+        //  }
+        //  synchronized(lock){
+        //   lock.notifyAll()
+        //  }
 
     }
 

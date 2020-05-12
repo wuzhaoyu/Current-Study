@@ -4,7 +4,7 @@ import com.n2.util.Sleeper;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * 类功能说明:
+ * 类功能说明: 使用线程调试
  *
  *   runnable --> wait (wait方法)
  *   wait --> runnable 竞争成功
