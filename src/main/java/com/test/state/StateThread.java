@@ -1,4 +1,4 @@
-package com.test;
+package com.test.state;
 
 import lombok.extern.slf4j.Slf4j;
 
@@ -53,7 +53,7 @@ public class StateThread {
 
         },"T3");
 
-        // WAITING
+        // WAITING 等待T2线程执行完成
         Thread t4 = new Thread(()->{
             try {
                 t2.join();
@@ -62,7 +62,7 @@ public class StateThread {
             }
         },"T4");
 
-        // TIMED_WAITING
+        // TIMED_WAITING  睡眠时的状态
         Thread t5 = new Thread(()->{
             synchronized (StateThread.class){
                 try {
@@ -73,7 +73,7 @@ public class StateThread {
             }
         },"T5");
 
-        // BLOCKED
+        // BLOCKED 获取锁时的状态
         Thread t6 = new Thread(()->{
             synchronized (StateThread.class){
 
