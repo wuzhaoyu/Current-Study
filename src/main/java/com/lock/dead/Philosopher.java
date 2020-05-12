@@ -25,9 +25,11 @@ public class Philosopher extends Thread {
         new Philosopher("柏拉图", c2, c3).start();
         new Philosopher("亚里士多德", c3, c4).start();
         new Philosopher("赫拉克利特", c4, c5).start();
+        //都在等待对方锁释放，导致死锁
         new Philosopher("阿基米德", c5, c1).start();
+        // 顺序调用 使c5释放锁；赫拉克利特执行，释放c4以此类推就不会导致死锁
+        new Philosopher("阿基米德", c1, c5).start();
     }
-
 
     private Chopstick left;
     private Chopstick right;
@@ -47,7 +49,6 @@ public class Philosopher extends Thread {
                 }
             }
         }
-
     }
 
     public void eat(String name){
