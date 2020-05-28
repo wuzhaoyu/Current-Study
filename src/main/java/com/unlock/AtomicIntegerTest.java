@@ -22,14 +22,11 @@ public class AtomicIntegerTest {
         System.out.println(i.getAndAdd(5));
         System.out.println(i.addAndGet(5));
 
-        System.out.println(compareResult((t) -> t * 2));
+        System.out.println(result((t) -> t * 2));
     }
 
-    public static int compareResult(FunctionInterface function){
-
-        int i = function.compareMethod(2);
+    public static int result(FunctionInterface function){
+        int i = function.defindMethod(2);
         return i;
-
-
     }
 }
