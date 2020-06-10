@@ -22,6 +22,6 @@ public class DateTimeSafe {
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd");
         TemporalAccessor parse = dateTimeFormatter.parse("2020-12-20");
         System.out.println(parse);
-
+        Long l = new Long(0);
     }
 }

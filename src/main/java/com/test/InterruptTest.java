@@ -59,9 +59,9 @@ public class InterruptTest {
         // -------------------
         thread1.start();
         log.info("正常运行的线程打断");
-        // 正常运行的线程被打断 则打断状态非true标记
+        // 正常运行的线程被打断 则打断状态true标记
         thread1.interrupt();
-
+        log.info("打断状态;{}",thread1.isInterrupted());
 
     }
 }
